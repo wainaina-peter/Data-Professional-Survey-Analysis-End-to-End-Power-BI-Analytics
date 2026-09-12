@@ -3,7 +3,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-yellow)
 ![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning-blue)
 ![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-orange)
-![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ## 📌 Project Overview
 
