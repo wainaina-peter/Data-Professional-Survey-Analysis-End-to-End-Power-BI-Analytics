@@ -4,7 +4,7 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning-blue)
 ![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-orange)
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes survey data collected from data professionals to better understand
 career roles, salaries, programming language preferences, geographic distribution,
@@ -19,7 +19,7 @@ provides clear and useful insights into the data profession.
 
 ---
 
-## 🎯 Business Questions
+## Business Questions
 
 The analysis focuses on answering questions such as:
 
@@ -33,7 +33,7 @@ The analysis focuses on answering questions such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Microsoft Power BI**
 - **Power Query**
@@ -45,7 +45,7 @@ The analysis focuses on answering questions such as:
 
 ---
 
-## 🔄 Data Preparation
+## Data Preparation
 
 Before building the dashboard, I performed several data preparation and cleaning
 steps using Power Query.
@@ -65,7 +65,7 @@ consistent data.
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 ![Data Professional Survey Dashboard](dashboard-overview.png)
 
@@ -73,37 +73,37 @@ consistent data.
 
 The dashboard provides an interactive overview of the survey responses, including:
 
-### 🌎 Geographic Distribution
+### Geographic Distribution
 
 Shows the countries represented by the survey participants.
 
-### 💼 Salary by Job Title
+### Salary by Job Title
 
 Compares average salary across different data-related job titles.
 
-### 💻 Programming Languages
+### Programming Languages
 
 Shows the programming languages preferred by survey participants.
 
-### 🎓 Difficulty Entering the Data Field
+### Difficulty Entering the Data Field
 
 Analyzes how respondents rated the difficulty of breaking into the data profession.
 
-### 💰 Salary Satisfaction
+### Salary Satisfaction
 
 Shows the average satisfaction level with current salary.
 
-### ⚖️ Work-Life Balance
+### Work-Life Balance
 
 Shows the average satisfaction level with work-life balance.
 
-### 👥 Survey Demographics
+### Survey Demographics
 
 Provides an overview of the number of survey participants and their average age.
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 Some of the key findings from the dashboard include:
 
@@ -119,7 +119,7 @@ Some of the key findings from the dashboard include:
 
 ---
 
-## 📈 Analysis Process
+## Analysis Process
 
 The project followed an end-to-end analytics workflow:
 
