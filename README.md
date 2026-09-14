@@ -68,6 +68,7 @@ consistent data.
 ## Dashboard
 
 ![Data Professional Survey Dashboard](dashboard-overview.png)
+![Data Professional Survey Dashboard](updated-dashboard-overview.png)
 
 ### Dashboard Features
 
